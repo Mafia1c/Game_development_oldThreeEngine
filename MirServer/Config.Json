@@ -1,0 +1,18 @@
+{
+ "DBInfo": {
+  "sDBUser": "996m2",
+  "sDBName": "yscq",
+  "sDBPsw": "www.996m2.com",
+  "sDBIpAddr": "47.99.99.32",
+  "nDBPort": 1433
+ },
+ "ServerInfo": {
+  "sIP": "127.0.0.1",
+  "Dir": "C:\\chuanqi\\MirServer\\",
+  "sServerName": "µ¥»ú²âÊÔ",
+  "nPort": 7000,
+  "nIncCount": 1,
+  "nGateCount": 3,
+  "nServerID": 0
+ }
+}

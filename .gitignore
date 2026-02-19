@@ -1,0 +1,54 @@
+#忽略 ？？文件夹下所有文件
+cache/
+mod_launcher/
+log/
+.996/
+anim/
+fonts/
+GUIValue/
+mp3/
+res/
+scene/
+.vscode/
+DBServer/
+Log/
+LoginGate/
+LoginSrv/
+RunGate/
+RunGateH5/
+.svn/
+.git/
+Data/
+doc/
+Mir200-KF/
+SQLSERVER/
+.idea/
+serverData/
+
+配置/
+# 忽略 .? 文件
+*.png
+*.exe
+*.map
+*.dll
+*.dat
+*.chm
+*.log
+*.ini
+*.zip
+*.xls
+# 忽略 ?/?.txt
+client/.txt
+MirServer/.ini
+
+# 忽略这个文件
+GCConfig.ini
+env.json
+var.json
+bugreport.txt
+!Setup.txt
+Setup.json
+# 但否定忽略 ?
+!dbsrc.ini
+/MirServer/Mir200/!setup.txt
+/MirServer/996M2引擎帮助文档.chw
